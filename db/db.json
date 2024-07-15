@@ -1,0 +1,11 @@
+{
+  "restaurant": [
+    {
+      "id": "ada4",
+      "name": "ketan",
+      "email": "ketan@test.com",
+      "rating": "4.5",
+      "address": "delhi"
+    }
+  ]
+}
